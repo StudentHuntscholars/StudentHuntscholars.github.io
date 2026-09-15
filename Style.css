@@ -18,7 +18,7 @@ text-align: center;
   display: grid;
   grid-template-columns: auto auto auto;
   background-color: #000000;
-  padding: 10px;
+  padding: 1px;
 }
 .container div {
   background-color: #000000;
