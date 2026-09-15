@@ -7,10 +7,19 @@
   <body>
     <h1>MENU</h1>
     <p>welcome too our opening night all burgers are 20% off!</p>
-     <img id="sbm" src="scary_bee_man.png" alt="lowkey theres a scary bee on ur screen rn" style="width:1024px;height:473px;/img>
-    <button type="button" onclick="show()" id="sbm">
+     <img id="sbm" src="scary_bee_man.png"
+     alt="lowkey theres a scary bee on ur screen rn"
+     style="width:1024px;height:473px;display:none;">
+
+    <button type="button" onclick="show()" id="showButton">
         Show Image
-       </button>
+    </button>
+
+    <script>
+        function show() {
+            document.getElementById("sbm").style.display = "block";
+        }
+    </script>
   </body>
   
 </html>
