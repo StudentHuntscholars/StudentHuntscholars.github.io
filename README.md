@@ -2,6 +2,6 @@
 This is a Repo for HS students to practice using HTML
 
 ## Student Links
-- [Mineral](https://studenthuntscholars.github.io/BC/mineral.html)
+- [Mineral](https://studenthuntscholars.github.io/BC/anotHer.html)
 - [WL](https://studenthuntscholars.github.io/WL/thing2.html)
 - [TO](https://studenthuntscholars.github.io/TO/TO.html)
