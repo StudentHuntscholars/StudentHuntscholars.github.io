@@ -1,2 +1,1 @@
-let messageParagraph = document.getElementById("rah");
-messageParagraph.innerText = "ello";
+document.getElementById("rah").innerText = "ello";
