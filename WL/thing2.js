@@ -1,1 +1,1 @@
-document.getElementById("rah").innerText = "ello";
+document.getElementById("rah").innerText = "rah";
